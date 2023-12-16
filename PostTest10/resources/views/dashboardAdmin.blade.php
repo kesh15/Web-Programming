@@ -9,6 +9,12 @@
     <title>Selamat Datang</title>
     <!--Fonts-->
     <link rel="preconnect" href="https://fonts.bunny.net">
+    <style>
+        body {
+            font-size: 20px;
+            /* Ganti ukuran teks sesuai kebutuhan */
+        }
+    </style>
 </head>
 
 <body>
